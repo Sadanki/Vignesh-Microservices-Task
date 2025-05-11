@@ -63,7 +63,8 @@ This document provides details on testing various services after running the `do
     ```
     curl http://localhost:3003/api/products
 
-    ![image](https://github.com/user-attachments/assets/24d95573-b53f-4b22-a483-c823a0d3d505)
+   ![image](https://github.com/user-attachments/assets/96b64564-c2f3-49a2-ae09-fc95cca6d5f8)
+
 
 
     ```
@@ -71,7 +72,8 @@ This document provides details on testing various services after running the `do
     ```
     curl http://localhost:3003/api/orders
 
-    ![image](https://github.com/user-attachments/assets/1711ae85-4997-447c-b8e4-5a386d3ca611)
+  ![image](https://github.com/user-attachments/assets/d4e5df02-0783-483a-a679-5e60354d0425)
+
 
 
     ```
