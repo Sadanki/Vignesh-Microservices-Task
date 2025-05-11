@@ -42,7 +42,8 @@ This document provides details on testing various services after running the `do
     curl http://localhost:3002/orders
     ```
     Or open in your browser: [http://localhost:3002/orders](http://localhost:3002/orders)
-    ![image](https://github.com/user-attachments/assets/19dc6248-e386-4f3c-8f37-6ce2f8a3750c)
+
+     ![image](https://github.com/user-attachments/assets/19dc6248-e386-4f3c-8f37-6ce2f8a3750c)
 
 
 ---
@@ -51,7 +52,8 @@ This document provides details on testing various services after running the `do
 - **Base URL:** `http://localhost:3003/api`
 - **Endpoints:**
   - **Users:**
-  - ![image](https://github.com/user-attachments/assets/aeb9916a-88ec-4b8e-b326-efb85c2a406c)
+
+   - ![image](https://github.com/user-attachments/assets/aeb9916a-88ec-4b8e-b326-efb85c2a406c)
 
     ```
     curl http://localhost:3003/api/users
@@ -60,13 +62,17 @@ This document provides details on testing various services after running the `do
 
     ```
     curl http://localhost:3003/api/products
-    ![image](https://github.com/user-attachments/assets/1ffd5db6-158b-4dda-961d-e9dc72ee8b1c)
+
+    ![image](https://github.com/user-attachments/assets/24d95573-b53f-4b22-a483-c823a0d3d505)
+
 
     ```
   - **Orders:**  
     ```
     curl http://localhost:3003/api/orders
-    ![image](https://github.com/user-attachments/assets/4ce0d041-9d0f-43f8-9d59-6f076f0195be)
+
+    ![image](https://github.com/user-attachments/assets/1711ae85-4997-447c-b8e4-5a386d3ca611)
+
 
     ```
 
