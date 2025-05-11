@@ -16,6 +16,7 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3000/users](http://localhost:3000/users)
     
+![image](https://github.com/user-attachments/assets/4d926b56-c684-42ab-a80c-353146c4c141)
 
 ---
 
@@ -28,6 +29,9 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3001/products](http://localhost:3001/products)
 
+    ![image](https://github.com/user-attachments/assets/f8523785-d954-4078-9ca5-40baa45be033)
+
+
 ---
 
 ### **Order Service**
@@ -38,23 +42,32 @@ This document provides details on testing various services after running the `do
     curl http://localhost:3002/orders
     ```
     Or open in your browser: [http://localhost:3002/orders](http://localhost:3002/orders)
+    ![image](https://github.com/user-attachments/assets/19dc6248-e386-4f3c-8f37-6ce2f8a3750c)
+
 
 ---
 
 ### **Gateway Service**
 - **Base URL:** `http://localhost:3003/api`
 - **Endpoints:**
-  - **Users:**  
+  - **Users:**
+  - ![image](https://github.com/user-attachments/assets/aeb9916a-88ec-4b8e-b326-efb85c2a406c)
+
     ```
     curl http://localhost:3003/api/users
     ```
-  - **Products:**  
+  - **Products:**
+
     ```
     curl http://localhost:3003/api/products
+    ![image](https://github.com/user-attachments/assets/1ffd5db6-158b-4dda-961d-e9dc72ee8b1c)
+
     ```
   - **Orders:**  
     ```
     curl http://localhost:3003/api/orders
+    ![image](https://github.com/user-attachments/assets/4ce0d041-9d0f-43f8-9d59-6f076f0195be)
+
     ```
 
 ---
